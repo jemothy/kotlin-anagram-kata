@@ -1,3 +1,3 @@
-# kata
+# kotlin anagram
 
-## A place to store coding challenges and kata exercises
+## A simple kotlin project for an anagram algorithm
